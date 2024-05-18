@@ -79,7 +79,7 @@ print('sublist------------------------------------');
 
 
   var listA=[1,3,4];
-  var listB=[1,3,4,];
+    var listB=[1,3,4,];
   listB.addAll(listA);
   print(listB);
 }

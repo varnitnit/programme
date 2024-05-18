@@ -11,6 +11,9 @@ void main() {
   }
 
   print('Sum of digits\n$result');
+  print('fffffffffff ${(15/2).floor()}');
+  print('fffffffffff ${(15/2)}');
+  print('~~~~~~~~~~~~    ${15~/2}');
 }
 int sumOfDigitsRec(int number) {
   if (number < 10) {
